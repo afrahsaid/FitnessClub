@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/afrahsaid/holidayTours.git/static/css/main.894b56c5.css",
-    "main.js": "/afrahsaid/holidayTours.git/static/js/main.40d4e73c.js",
-    "index.html": "/afrahsaid/holidayTours.git/index.html",
-    "main.894b56c5.css.map": "/afrahsaid/holidayTours.git/static/css/main.894b56c5.css.map",
-    "main.40d4e73c.js.map": "/afrahsaid/holidayTours.git/static/js/main.40d4e73c.js.map"
+    "main.css": "/afrahsaid/holidayTours/static/css/main.894b56c5.css",
+    "main.js": "/afrahsaid/holidayTours/static/js/main.40d4e73c.js",
+    "index.html": "/afrahsaid/holidayTours/index.html",
+    "main.894b56c5.css.map": "/afrahsaid/holidayTours/static/css/main.894b56c5.css.map",
+    "main.40d4e73c.js.map": "/afrahsaid/holidayTours/static/js/main.40d4e73c.js.map"
   },
   "entrypoints": [
     "static/css/main.894b56c5.css",
